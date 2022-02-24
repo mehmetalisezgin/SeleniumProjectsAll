@@ -35,7 +35,7 @@ public class C04_DragAndDrop extends TestBaseCross {
 
         Assert.assertEquals(actualDroppedYazisi,expectedDroppedYazisi);
 
-        Thread.sleep(7000);
+        Thread.sleep(8000);
     }
 
 }
